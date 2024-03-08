@@ -1,8 +1,6 @@
 import os
 import shutil
 
-# dataset_path ='WOTR\JPEGImages'
-
 
 # Function to divide dataset into groups of 4500 images
 def divide_dataset(dataset_path, output_dir):
